@@ -70,3 +70,5 @@ asdf
 
 
 esto es un commit en el GITHUB haciendo una prueba
+
+segunda pruebas para clonar un repositorio global en el repositorio local.
