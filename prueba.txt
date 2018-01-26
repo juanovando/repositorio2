@@ -1,4 +1,4 @@
- ver si sale
+﻿ ver si sale
 
 al guardar un cambio en este archivo el Github sed acuenta por que lo tiene fiscaliesto es una pruebas de otra modificacion
 
@@ -72,3 +72,6 @@ asdf
 esto es un commit en el GITHUB haciendo una prueba
 
 segunda pruebas para clonar un repositorio global en el repositorio local.
+
+
+haciendo cambios en el archivo local del area de trabajo y ver si se refleja en GITHUB DESKTOP y GITHUB
